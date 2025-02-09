@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DreamIsland/1.0.0": {
+        "dependencies": {
+          "DreamIsland.DataAccess": "1.0.0",
+          "DreamIsland.Logic": "1.0.0",
+          "DreamIsland.UserInterface": "1.0.0"
+        },
+        "runtime": {
+          "DreamIsland.dll": {}
+        }
+      },
+      "DreamIsland.DataAccess/1.0.0": {
+        "dependencies": {
+          "DreamIsland.Logic": "1.0.0"
+        },
+        "runtime": {
+          "DreamIsland.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DreamIsland.Logic/1.0.0": {
+        "runtime": {
+          "DreamIsland.Logic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DreamIsland.UserInterface/1.0.0": {
+        "dependencies": {
+          "DreamIsland.Logic": "1.0.0"
+        },
+        "runtime": {
+          "DreamIsland.UserInterface.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DreamIsland/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DreamIsland.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DreamIsland.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DreamIsland.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

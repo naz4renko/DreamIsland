@@ -1,0 +1,46 @@
+﻿<svg id="icons" enable-background="new 0 0 64 64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="background-color: #B2CAEE;">
+	<g>
+		<g>
+			<path d="m17 4v9h-6v-9c0-1.7 1.4-3 3-3 1.7 0 3 1.3 3 3z" fill="#656d78"/>
+		</g>
+		<g>
+			<path d="m41 9h3v6h-3z" fill="#545c66"/>
+		</g>
+		<g>
+			<path d="m54 28h3v5h-3z" fill="#ffce54"/>
+		</g>
+		<g>
+			<path d="m50 5c1.1 0 2 .9 2 2s-.9 2-2 2h-6-3-6c-1.1 0-2-.9-2-2s.9-2 2-2z" fill="#656d78"/>
+		</g>
+		<g>
+			<path d="m44 15h2v3h-7v-3h2z" fill="#da4453"/>
+		</g>
+		<g>
+			<path d="m39 18v4h-13c-5 0-9-4-9-9h4c0 2.8 2.2 5 5 5z" fill="#656d78"/>
+		</g>
+		<g>
+			<circle cx="43" cy="38" fill="#ccd1d9" r="3"/>
+		</g>
+		<g>
+			<circle cx="19" cy="38" fill="#ccd1d9" r="3"/>
+		</g>
+		<g>
+			<path d="m57 58v5h-50v-5h13 22z" fill="#656d78"/>
+		</g>
+		<g>
+			<path d="m19 30c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8zm3 8c0-1.7-1.3-3-3-3-1.6 0-3 1.3-3 3s1.4 3 3 3c1.7 0 3-1.3 3-3z" fill="#656d78"/>
+		</g>
+		<g>
+			<path d="m27 38h8v16h-8z" fill="#ccd1d9"/>
+		</g>
+		<g>
+			<path d="m43 30c4.4 0 8 3.6 8 8s-3.6 8-8 8-8-3.6-8-8 3.6-8 8-8zm3 8c0-1.7-1.3-3-3-3s-3 1.3-3 3 1.3 3 3 3 3-1.3 3-3z" fill="#656d78"/>
+		</g>
+		<g>
+			<path d="m42 54v4h-22v-4h7 8z" fill="#e6e9ed"/>
+		</g>
+		<g>
+			<path d="m57 26v2h-3v5h3v5h-6c0-4.4-3.6-8-8-8s-8 3.6-8 8h-8c0-4.4-3.6-8-8-8s-8 3.6-8 8h-4v-25h4 6c0 5 4 9 9 9h13v-4h7 3c4.4 0 8 3.6 8 8z" fill="#ed5565"/>
+		</g>
+	</g>
+</svg>

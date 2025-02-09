@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUB\\DreamIsland\\DreamIsland\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28DC66-4427-4316-A695-434F6F3A812D}|..\\DreamIsland.WPF\\DreamIsland.WPF.csproj|d:\\github\\dreamisland\\dreamisland.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28DC66-4427-4316-A695-434F6F3A812D}|..\\DreamIsland.WPF\\DreamIsland.WPF.csproj|d:\\github\\dreamisland\\dreamisland.wpf\\startwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 317,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUB\\DreamIsland\\DreamIsland.WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DreamIsland.WPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GITHUB\\DreamIsland\\DreamIsland.WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\DreamIsland.WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:35:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GITHUB\\DreamIsland\\DreamIsland.WPF\\StartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DreamIsland.WPF\\StartWindow.xaml.cs",
+              "ToolTip": "D:\\GITHUB\\DreamIsland\\DreamIsland.WPF\\StartWindow.xaml.cs",
+              "RelativeToolTip": "..\\DreamIsland.WPF\\StartWindow.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:35:51.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland", "DreamIsland.csproj", "{AE303596-A6D2-4A1F-8501-74FF2046D844}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6D28DC66-4427-4316-A695-434F6F3A812D} = {6D28DC66-4427-4316-A695-434F6F3A812D}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland.Logic", "..\DreamIsland.Logic\DreamIsland.Logic.csproj", "{8E84177A-DCD5-411C-A59B-BC669ACE573B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland.DataAccess", "..\DreamIsland.DataAccess\DreamIsland.DataAccess.csproj", "{49D121C7-49A0-417D-BED2-AD37927D939C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland.UserInterface", "..\DreamIsland.UserInterface\DreamIsland.UserInterface.csproj", "{1F7D53AB-0817-4C9A-A627-EBE950F798F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland.Tests", "..\DreamIsland.Tests\DreamIsland.Tests.csproj", "{34791FA8-324E-4A5D-98CC-19880A1E7EFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DreamIsland.WPF", "..\DreamIsland.WPF\DreamIsland.WPF.csproj", "{6D28DC66-4427-4316-A695-434F6F3A812D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1F7D53AB-0817-4C9A-A627-EBE950F798F7} = {1F7D53AB-0817-4C9A-A627-EBE950F798F7}
+		{49D121C7-49A0-417D-BED2-AD37927D939C} = {49D121C7-49A0-417D-BED2-AD37927D939C}
+		{8E84177A-DCD5-411C-A59B-BC669ACE573B} = {8E84177A-DCD5-411C-A59B-BC669ACE573B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE303596-A6D2-4A1F-8501-74FF2046D844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE303596-A6D2-4A1F-8501-74FF2046D844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE303596-A6D2-4A1F-8501-74FF2046D844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE303596-A6D2-4A1F-8501-74FF2046D844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E84177A-DCD5-411C-A59B-BC669ACE573B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E84177A-DCD5-411C-A59B-BC669ACE573B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E84177A-DCD5-411C-A59B-BC669ACE573B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E84177A-DCD5-411C-A59B-BC669ACE573B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D121C7-49A0-417D-BED2-AD37927D939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D121C7-49A0-417D-BED2-AD37927D939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D121C7-49A0-417D-BED2-AD37927D939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D121C7-49A0-417D-BED2-AD37927D939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7D53AB-0817-4C9A-A627-EBE950F798F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7D53AB-0817-4C9A-A627-EBE950F798F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7D53AB-0817-4C9A-A627-EBE950F798F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7D53AB-0817-4C9A-A627-EBE950F798F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34791FA8-324E-4A5D-98CC-19880A1E7EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34791FA8-324E-4A5D-98CC-19880A1E7EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34791FA8-324E-4A5D-98CC-19880A1E7EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34791FA8-324E-4A5D-98CC-19880A1E7EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D28DC66-4427-4316-A695-434F6F3A812D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D28DC66-4427-4316-A695-434F6F3A812D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D28DC66-4427-4316-A695-434F6F3A812D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D28DC66-4427-4316-A695-434F6F3A812D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADDEC1F9-5519-4A73-8163-396FC6816333}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DreamIsland.WPF": {
+      "commandName": "Project",
+      "commandLineArgs": "Attractions.txt\r\nTicketTypes.txt\r\nCheck.txt",
+      "workingDirectory": "D:\\Учёба\\Предыдущие курсы\\3 курс 1 семестр\\Спешилов\\Park"
+    }
+  }
+}

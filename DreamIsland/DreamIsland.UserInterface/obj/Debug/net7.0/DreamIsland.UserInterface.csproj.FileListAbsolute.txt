@@ -1,0 +1,65 @@
+C:\Users\User\Desktop\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfo.cs
+C:\Users\User\Desktop\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfo.cs
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.deps.json
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.dll
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.pdb
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CopyComplete
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\refint\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Park\DreamIsland.UserInterface\obj\Debug\net7.0\ref\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CopyComplete
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\refint\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\ref\DreamIsland.UserInterface.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.deps.json
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.AssemblyReference.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfoInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfo.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CoreCompileInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsl.29E67995.Up2Date
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\refint\DreamIsland.UserInterface.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.UserInterface\obj\Debug\net7.0\ref\DreamIsland.UserInterface.dll
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.deps.json
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.dll
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.UserInterface.pdb
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.dll
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\bin\Debug\net7.0\DreamIsland.Logic.pdb
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.AssemblyReference.cache
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfoInputs.cache
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.AssemblyInfo.cs
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.csproj.CoreCompileInputs.cache
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsl.29E67995.Up2Date
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.dll
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\refint\DreamIsland.UserInterface.dll
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\DreamIsland.UserInterface.pdb
+D:\GITHUB\DreamIsland\DreamIsland.UserInterface\obj\Debug\net7.0\ref\DreamIsland.UserInterface.dll

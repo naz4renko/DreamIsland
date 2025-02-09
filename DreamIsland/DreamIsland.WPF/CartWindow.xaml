@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="DreamIsland.WPF.CartWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DreamIsland.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="490" d:DesignWidth="890">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="60"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="YourCart" Text="Ваша корзина" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontSize="28" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+        <DataGrid x:Name="CartDataGrid" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding TicketsCollection}"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center">
+            <Button x:Name="RemoveTicketButton" Height="50" Width="180" FontSize="22" Content="Удалить"     Margin="0 0 20 0" Click="RemoveTicket_Click"/>
+            <Button x:Name="ComfirmCartButton"  Height="50" Width="180" FontSize="22" Content="Подтвердить" Margin="20 0 0 0" Click="ComfirmCart_Click"/>
+        </StackPanel>
+
+        <Border x:Name="CheckWindow" Grid.ColumnSpan="3" Grid.RowSpan="3" Height="320" Width="320" Background="#3A5985" Visibility="Collapsed">
+            <StackPanel x:Name="ClientCheck" Grid.ColumnSpan="3" Grid.RowSpan="3" Height="300" Width="300" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Background="#89AFE0">
+                <TextBlock Text="ЧЕК" FontSize="20" FontFamily="Comic Sans MS" Foreground="White" HorizontalAlignment="Stretch" FontWeight="Bold" Background="#3A5985" TextAlignment="Center"/>
+                <StackPanel Orientation="Horizontal" Margin="5 5">
+                <TextBlock x:Name="Name" Foreground="White" Text="Имя: " FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+                <TextBlock x:Name="ClientName" Foreground="White" FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="5 5">
+                <TextBlock x:Name="Age" Foreground="White" Text="Возраст: " FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+                <TextBlock x:Name="ClientAge" Foreground="White" FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+            </StackPanel>
+            <DataGrid x:Name="EndedListOfTickets"/>
+            <StackPanel Orientation="Horizontal" Margin="5 5">
+                <TextBlock x:Name="TotalPrice" Foreground="White" Text="Итого: " FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+                <TextBlock x:Name="ClientTotalPrice" Foreground="White" FontSize="16" FontWeight="Bold" FontFamily="Comic Sans MS" Height="20" Width="Auto"/>
+            </StackPanel>
+        </StackPanel>
+        </Border>
+        <StackPanel x:Name="DialogStack" Visibility="Collapsed" Grid.ColumnSpan="4" Grid.RowSpan="3" Height="120" Width="220" Background="#FF121D4A">
+            <TextBlock Text="Подтвердить?" Foreground="Wheat" HorizontalAlignment="Center" Margin="20" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="ComfirmButton" Margin="10 0" Width="80" Content="Да" Click="Comfirm_Click" />
+                <Button x:Name="CancelButton" Margin="10 0" Width="80" Content="Нет" Click="Cancel_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

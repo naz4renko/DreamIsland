@@ -1,0 +1,147 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "DreamIsland.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DreamIsland.Logic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DreamIsland.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DreamIsland.DataAccess.dll": {}
+        }
+      },
+      "DreamIsland.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/DreamIsland.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DreamIsland.Logic.dll": {}
+        }
+      },
+      "DreamIsland.UserInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "DreamIsland.Logic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DreamIsland.UserInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DreamIsland.UserInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DreamIsland.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../DreamIsland.DataAccess/DreamIsland.DataAccess.csproj",
+      "msbuildProject": "../DreamIsland.DataAccess/DreamIsland.DataAccess.csproj"
+    },
+    "DreamIsland.Logic/1.0.0": {
+      "type": "project",
+      "path": "../DreamIsland.Logic/DreamIsland.Logic.csproj",
+      "msbuildProject": "../DreamIsland.Logic/DreamIsland.Logic.csproj"
+    },
+    "DreamIsland.UserInterface/1.0.0": {
+      "type": "project",
+      "path": "../DreamIsland.UserInterface/DreamIsland.UserInterface.csproj",
+      "msbuildProject": "../DreamIsland.UserInterface/DreamIsland.UserInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "DreamIsland.DataAccess >= 1.0.0",
+      "DreamIsland.Logic >= 1.0.0",
+      "DreamIsland.UserInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GITHUB\\DreamIsland\\DreamIsland\\DreamIsland.csproj",
+      "projectName": "DreamIsland",
+      "projectPath": "D:\\GITHUB\\DreamIsland\\DreamIsland\\DreamIsland.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\GITHUB\\DreamIsland\\DreamIsland\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\GITHUB\\DreamIsland\\DreamIsland.DataAccess\\DreamIsland.DataAccess.csproj": {
+              "projectPath": "D:\\GITHUB\\DreamIsland\\DreamIsland.DataAccess\\DreamIsland.DataAccess.csproj"
+            },
+            "D:\\GITHUB\\DreamIsland\\DreamIsland.Logic\\DreamIsland.Logic.csproj": {
+              "projectPath": "D:\\GITHUB\\DreamIsland\\DreamIsland.Logic\\DreamIsland.Logic.csproj"
+            },
+            "D:\\GITHUB\\DreamIsland\\DreamIsland.UserInterface\\DreamIsland.UserInterface.csproj": {
+              "projectPath": "D:\\GITHUB\\DreamIsland\\DreamIsland.UserInterface\\DreamIsland.UserInterface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

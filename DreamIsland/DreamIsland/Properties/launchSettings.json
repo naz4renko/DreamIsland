@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DreamIsland": {
+      "commandName": "Project",
+      "commandLineArgs": "Attractions.txt\r\nTicketTypes.txt\r\nCheck.txt"
+    }
+  }
+}

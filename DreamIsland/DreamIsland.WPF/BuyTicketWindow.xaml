@@ -1,0 +1,77 @@
+﻿<UserControl x:Class="DreamIsland.WPF.BuyTicketWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:DreamIsland.WPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="490" d:DesignWidth="890">
+    <Grid Background="#FF8383BF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border BorderBrush="Black" BorderThickness="0 0 1 0">
+            <Grid>
+                <StackPanel>
+                    <Label     x:Name="AllInclusiveLabel" Content="Всё включено!" HorizontalAlignment="Center" Margin="0,60,0,0" Foreground="White" FontSize="28" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="AllInclusiveInfo" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS" TextAlignment="Center"><Run Text="Безлимитное посещение всех аттракционов на одного человека"/></TextBlock>
+                    <TextBlock x:Name="AllInclusivePrice1" HorizontalAlignment="Center" Margin="0,20,0,0" Text="Цена:" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="AllInclusivePrice2" HorizontalAlignment="Center" Text="2500 руб." Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <Button x:Name="AllInclusiveButton" VerticalAlignment="Bottom" Content="Купить" Width="120" Margin="0,70,0,0" Click="AllInclusiveButton_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+        
+        <Border BorderBrush="Black" BorderThickness="0 0 1 0" Grid.Column="1">
+            <Grid Grid.Column="1">
+                <StackPanel>
+                    <Label     x:Name="SimpleAttractionLabel" HorizontalAlignment="Center" Content="Обычный" Margin="0,60,0,0" Foreground="White" FontSize="28" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="SimpleAttractionInfo" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS" TextAlignment="Center"><Run Text="Право на посещение одного аттракциона"/></TextBlock>
+                    <TextBlock x:Name="SimpleAttractionPrice1" HorizontalAlignment="Center" Margin="0,80,0,0" Text="Цена:" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="SimpleAttractionPrice2" HorizontalAlignment="Center" Text="Индивидуальная" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <Button x:Name="SimpleAttractionButton" VerticalAlignment="Bottom" Content="Купить" Width="120" Margin="0,65,0,0" Click="SimpleAttractionButton_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0 0 1 0" Grid.Column="2">
+            <Grid Grid.Column="1">
+                <StackPanel>
+                    <Label     x:Name="StudentTicketLabel" HorizontalAlignment="Center" Content="Студенческий" Margin="0,60,0,0" Foreground="White" FontSize="28" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="StudentTicketInfo" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS" TextAlignment="Center"><Run Text="Безлимитное посещение всех аттракционов на одного человека"/></TextBlock>
+                    <TextBlock x:Name="StudentTicketPrice1" HorizontalAlignment="Center" Margin="0,20,0,0" Text="Цена:" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="StudentTicketPrice2" HorizontalAlignment="Center" Text="1500 руб." Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <Button x:Name="StudentTicketButton" VerticalAlignment="Bottom" Content="Купить" Width="120" Margin="0,70,0,0" Click="StudentTicketButton_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <Border BorderBrush="Black" BorderThickness="0 0 1 0" Grid.Column="3">
+            <Grid Grid.Column="1">
+                <StackPanel>
+                    <Label     x:Name="FamilyTicketLabel" HorizontalAlignment="Center" Content="Семейный" Margin="0,60,0,0" Foreground="White" FontSize="28" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="FamilyTicketInfo" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS" Text="Безлимитное посещение аттракционов до 3х человек" TextAlignment="Center"/>
+                    <TextBlock x:Name="FamilyTicketPrice1" HorizontalAlignment="Center" Margin="0,20,0,0" Text="Цена:" Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <TextBlock x:Name="FamilyTicketPrice2" HorizontalAlignment="Center" Text="5500 руб." Foreground="White" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+                    <Button    x:Name="FamilyTicketButton" VerticalAlignment="Bottom" Content="Купить" Width="120" Margin="0,70,0,0" Click="FamilyTicketButton_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+        <StackPanel x:Name="SimpleAttractionStackPanel" Background="#FF102233" Visibility="Collapsed" HorizontalAlignment="Center" VerticalAlignment="Center" Height="Auto" Width="Auto" Grid.ColumnSpan="4">
+            <DataGrid x:Name="SimpleAttracionDG"  AutoGenerateColumns="True" ItemsSource="{Binding AttractionsCollection}"/>
+            <Button x:Name="AddAttraction" VerticalAlignment="Bottom" Margin="0 20 0 0" Content="Добавить" FontWeight="Bold" FontSize="16" Click="AddAttraction_Click"/>
+        </StackPanel>
+
+        <StackPanel x:Name="DialogStack" Visibility="Collapsed" Grid.ColumnSpan="4" Height="120" Width="220" Background="#FF121D4A">
+            <TextBlock Text="Подтвердить?" Foreground="Wheat" HorizontalAlignment="Center" Margin="20" FontSize="20" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="ComfirmButton" Margin="10 0" Width="80" Content="Да" Click="Comfirm_Click" />
+                <Button x:Name="CancelButton" Margin="10 0" Width="80" Content="Нет" Click="Cancel_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

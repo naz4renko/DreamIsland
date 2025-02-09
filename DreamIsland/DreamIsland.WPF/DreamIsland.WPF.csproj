@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ГонкаМечты.png" />
+    <None Remove="ГородБудущего.png" />
+    <None Remove="ЗамокСнежнойКоролевы.png" />
+    <None Remove="ОстровСокровищ.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.4" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="0.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DreamIsland.DataAccess\DreamIsland.DataAccess.csproj" />
+    <ProjectReference Include="..\DreamIsland.Logic\DreamIsland.Logic.csproj" />
+    <ProjectReference Include="..\DreamIsland.UserInterface\DreamIsland.UserInterface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ГонкаМечты.png" />
+    <Resource Include="ГородБудущего.png" />
+    <Resource Include="ЗамокСнежнойКоролевы.png" />
+    <Resource Include="ОстровСокровищ.png" />
+  </ItemGroup>
+
+</Project>

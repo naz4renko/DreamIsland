@@ -1,0 +1,180 @@
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.cache
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.lref
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.exe
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.deps.json
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.runtimeconfig.json
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.pdb
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.g.resources
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CopyComplete
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\refint\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.pdb
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\ref\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.pdb
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.pdb
+C:\Users\User\Desktop\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.baml
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.g.cs
+C:\Users\User\Desktop\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.exe
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.lref
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.g.resources
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CopyComplete
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\refint\DreamIsland.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.pdb
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Учёба\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\ref\DreamIsland.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.exe
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.deps.json
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.runtimeconfig.json
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.AssemblyReference.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.lref
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\App.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.baml
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.g.resources
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfoInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfo.cs
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CoreCompileInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsl.ABE54B22.Up2Date
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\refint\DreamIsland.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.pdb
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.genruntimeconfig.cache
+D:\Учёба\Предыдущие курсы\3 курс 1 семестр\Спешилов\Park\DreamIsland.WPF\obj\Debug\net7.0-windows\ref\DreamIsland.WPF.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.exe
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.deps.json
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.runtimeconfig.json
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.WPF.pdb
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\MaterialDesignThemes.MahApps.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.DataAccess.pdb
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.Logic.pdb
+D:\GITHUB\DreamIsland\DreamIsland.WPF\bin\Debug\net7.0-windows\DreamIsland.UserInterface.pdb
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.AssemblyReference.cache
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.cache
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF_MarkupCompile.lref
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\App.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\AttractionsInfo.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\Authorization.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\BuyTicketWindow.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\CartWindow.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\StartWindow.baml
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.g.resources
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfoInputs.cache
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.AssemblyInfo.cs
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.csproj.CoreCompileInputs.cache
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsl.ABE54B22.Up2Date
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\refint\DreamIsland.WPF.dll
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.pdb
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\DreamIsland.WPF.genruntimeconfig.cache
+D:\GITHUB\DreamIsland\DreamIsland.WPF\obj\Debug\net7.0-windows\ref\DreamIsland.WPF.dll
